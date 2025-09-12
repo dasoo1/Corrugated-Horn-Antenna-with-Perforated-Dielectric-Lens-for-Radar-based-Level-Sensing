@@ -1,7 +1,7 @@
 # Corrugated-Horn-Antenna-with-Perforated-Dielectric-Lens-for-Radar-based-Level-Sensing
 The raw data for this paper are publicly available
 
-This repository consists of the following items.
+You can find the following items in the branches of this repository.
 
 1. Antenna Phase Data
 2. Unit Cell Phase Compensation Data
